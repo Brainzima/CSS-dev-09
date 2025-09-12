@@ -1,0 +1,31 @@
+/*
+1rem = 16px
+*/
+
+p{
+    font-size: 3rem;
+    color: red;
+}
+
+/* 
+id = #id
+class = .class
+*/
+
+#mobile{
+    color: orange;
+}
+
+.purple{
+    color: purple;
+}
+.email{
+    font-size: 1.5rem;
+    font-weight: bolder;  /* value 100 to 900 & bold, bolder */
+}
+
+.about{
+    font-size: 2rem;
+    font-family: Impact;
+    font-style: italic;
+}
